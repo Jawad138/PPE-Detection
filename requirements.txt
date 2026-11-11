@@ -1,0 +1,6 @@
+# Install PyTorch with CUDA first (Pascal GPUs like the Quadro P2000 need cu126):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+ultralytics>=8.3
+opencv-python
+matplotlib
+streamlit
